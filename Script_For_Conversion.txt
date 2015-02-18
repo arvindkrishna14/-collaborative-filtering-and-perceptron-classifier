@@ -1,0 +1,10 @@
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset1/train > /train/set1TrainARFF.arff
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset1/test > /test/set1TestARFF.arff
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset2/train > /train/set2TrainARFF.arff
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset2/test > /test/set2TestARFF.arff
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset3/train > /train/set3TrainARFF.arff
+java weka.core.converters.TextDirectoryLoader -dir /MLDataset3/test > /test/set3TestARFF.arff
+
+
+Arvind Krishna Parthasarathy
+axp133230
